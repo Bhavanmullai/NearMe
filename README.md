@@ -1,6 +1,7 @@
 # Ex04 Places Around Me
 ## Date: 12.12.2025
-
+## Name:Bhavan MS
+## Register Number:25007607
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -25,6 +26,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+~~~
 map.html
 
 
@@ -212,6 +214,7 @@ tech.html
 
 </body>
 </html>
+~~~
 
 
 
