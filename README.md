@@ -26,8 +26,6 @@ Execute the programs and publish them.
 
 ## CODE
 map.html
-
-
 <html>
 <head>
 <title>My City</title>
@@ -215,13 +213,12 @@ tech.html
 
 
 ## OUTPUT
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](6.png)
-
+<img width="1913" height="1068" alt="image" src="https://github.com/user-attachments/assets/731a0e4b-c76d-4311-91fe-4c321ec92848" />
+<img width="1910" height="956" alt="image" src="https://github.com/user-attachments/assets/6a20aca3-a937-4e0d-b06f-9a5e3089c5ea" />
+<img width="1909" height="966" alt="image" src="https://github.com/user-attachments/assets/8c84ee41-e0da-4fb6-bb46-d9cd1fe39660" />
+<img width="1915" height="941" alt="image" src="https://github.com/user-attachments/assets/cfc88684-0fc7-4fe8-8a0e-d9c2d7f7e1a1" />
+<img width="1904" height="961" alt="image" src="https://github.com/user-attachments/assets/75fc6943-e9a9-414f-970c-b9973b7c8cb6" />
+<img width="1902" height="1029" alt="image" src="https://github.com/user-attachments/assets/0e1fdfab-2d57-4de2-8432-085ca5cfe391" />
 
 
 
